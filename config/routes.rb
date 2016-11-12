@@ -6,4 +6,7 @@ Rails.application.routes.draw do
 			get 'car', defaults: {format: :json}
 		end
 	end
+	get '/fruit' => redirect('/products/fruit')
+	get '/car' => redirect('/products/car')
+	get '/cars' => redirect('/products/car')
 end
