@@ -1,24 +1,18 @@
-# README
+## railsscope
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails app illustrating the use of scope 
 
-Things you may want to cover:
+## Deployment
 
-* Ruby version
+http://railsscope.tomgdow.com/products
 
-* System dependencies
+http://railsscope.tomgdow.com/products/fruit
 
-* Configuration
+http://railsscope.tomgdow.com/products/car
 
-* Database creation
+http://railsscope.tomgdow.com/fruit
 
-* Database initialization
+http://railsscope.tomgdow.com/car
 
-* How to run the test suite
+http://railsscope.tomgdow.com/cars
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
