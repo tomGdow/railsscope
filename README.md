@@ -20,7 +20,6 @@ The following methods were added to app/controllers/product_controller.rb
 
 The key code is the following ( /app/models/product.rb)
 
-    CATEGORY_TYPES = ['fruit', 'car']
     scope :fruit, -> {where("category = ?","fruit")}
     scope :car, -> {where("category = ?","car")}
 In config/routes.rb
